@@ -6,3 +6,4 @@ from PIL import Image
 
 UPLOAD_FOLDER = 'static/uploads'
 OUTPUT_FOLDER = 'static/outputs'
+ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
