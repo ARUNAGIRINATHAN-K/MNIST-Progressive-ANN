@@ -43,3 +43,10 @@ def upload_image():
         return render_template('result.html', original=input_path, cartoon=output_path)
 
     return redirect(url_for('index'))
+
+@app.route('/static/<path:path>')
+def send_file(path):
+    return send_from_directory('static', path)
+
+if __name__ == '__main__':
+    app.run(debug=True)
