@@ -5,3 +5,4 @@ from werkzeug.utils import secure_filename
 from PIL import Image
 
 UPLOAD_FOLDER = 'static/uploads'
+OUTPUT_FOLDER = 'static/outputs'
