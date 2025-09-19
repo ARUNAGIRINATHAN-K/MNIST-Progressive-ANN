@@ -22,7 +22,7 @@ The MNIST dataset consists of 60,000 training and 10,000 test images of handwrit
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/mnist-neural-network)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/network)
 [![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-purple)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
 [![Computer Vision](https://img.shields.io/badge/Topic-Computer%20Vision-teal)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
-[![Language](https://img.shields.io/github/languages/top/yourusername/mnist-neural-network)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Language](https://img.shields.io/github/languages/top/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
 </p>
 
 
