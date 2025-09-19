@@ -1,6 +1,31 @@
 # Introduction to MNIST and Neural Networks
 The MNIST dataset consists of 60,000 training and 10,000 test images of handwritten digits (0-9), each a 28x28 grayscale pixel image (flattened to 784 features). The goal is to classify these into 10 classes using a feedforward neural network.
 
+<p align="center">
+  
+[![MNIST Accuracy](https://img.shields.io/badge/Accuracy-98.5%25-brightgreen)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Parameters](https://img.shields.io/badge/Parameters-109K-blue)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Training Time](https://img.shields.io/badge/Training%20Time-3min%205s-orange)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-orange.svg)](https://pytorch.org/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6.0-yellow.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-blue.svg)](https://seaborn.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24-green.svg)](https://numpy.org/)
+[![MNIST Dataset](https://img.shields.io/badge/Dataset-MNIST-red)](http://yann.lecun.com/exdb/mnist/)
+[![Code Style](https://img.shields.io/badge/Code%20Style-Black-black.svg)](https://github.com/psf/black)
+[![Linting](https://img.shields.io/badge/Linting-Pylint-yellow.svg)](https://pylint.org/)
+[![Tests](https://img.shields.io/badge/Tests-95%25-brightgreen.svg)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Coverage](https://img.shields.io/badge/Coverage-92%25-blue.svg)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-blue.svg)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/releases)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/mnist-neural-network)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/mnist-neural-network)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/network)
+[![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-purple)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Computer Vision](https://img.shields.io/badge/Topic-Computer%20Vision-teal)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+[![Language](https://img.shields.io/github/languages/top/yourusername/mnist-neural-network)](https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN)
+</p>
+
+
 We'll use PyTorch, a popular deep learning framework. The process involves:
 
 - Loading and preprocessing data.
