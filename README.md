@@ -243,3 +243,7 @@ Overfitting Risk |High | Medium |Low |
 Key Transformations:
 • Pixels → Numbers → Linear Combinations → Non-linearities → Probabilities → Class Label
 • Each layer learns increasingly abstract representations: edges → shapes → digit patterns
+
+## Output
+<img src="https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/blob/main/img/download%20(1).png" alt="Demo Image" width="450"/><br>
+<img src="https://github.com/ARUNAGIRINATHAN-K/MNIST-Progressive-ANN/blob/main/img/download.png" alt="Demo Image" width="450"/>
